@@ -2,7 +2,7 @@ package app;
 
 import javax.swing.*;
 
-import tetrisgame.TetrisGame;
+import tetrisgame.TetrisGame; 
 
 public class App {
     static int borderWidth = 400;
